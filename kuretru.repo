@@ -1,0 +1,5 @@
+[kuretru]
+name=kuretru repo
+baseurl=https://kuretru.github.io/packages/centos/$releasever/$basearch/
+enabled=1
+gpgcheck=0
