@@ -1,5 +1,9 @@
 # packages
 
+暂时废弃，使用Fedora Copr自动构建RPM包，保留用于以后发布其他软件包。  
+地址：[https://copr.fedorainfracloud.org/coprs/kuretru/](https://copr.fedorainfracloud.org/coprs/kuretru/)
+
+
 呉真自编译RPM包仓库
 
 ## 操作系统支持
